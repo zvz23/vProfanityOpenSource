@@ -18,9 +18,9 @@ vProfanity uses machine learning models, specifically speech recognition and ima
 
 ## Installation
 
-1. Create a folder named 'python' in the \vProfanity\vProfanity\bin\Debug folder. Then, download the [Python 3.11 Windows embeddable package (64-bit)](https://www.python.org/downloads/windows/) and extract its contents into the created folder.
-2. Create a folder named 'ffmpeg' in the \vProfanity\vProfanity\bin\Debug folder. Next, download the latest version of [ffmpeg github master builds essentials](https://www.gyan.dev/ffmpeg/builds/) and extract its contents into the created folder.
-3. Create a folder named 'models' in the \vProfanity\vProfanity\bin\Debug folder. After that, download the [image classification model](https://www.mediafire.com/file/0ofymm6212pob46/vProfanityModel.mlnet/file) and place it in the created folder.
+1. Create a folder named 'python' in the `vProfanity\bin\Debug` folder. Then, download the [Python 3.11 Windows embeddable package (64-bit)](https://www.python.org/downloads/windows/) and extract its contents into the created folder.
+2. Create a folder named 'ffmpeg' in the `vProfanity\bin\Debug` folder. Next, download the latest version of [ffmpeg github master builds essentials](https://www.gyan.dev/ffmpeg/builds/) and extract its contents into the created folder.
+3. Create a folder named 'models' in the `vProfanity\bin\Debug` folder. After that, download the [image classification model](https://www.mediafire.com/file/0ofymm6212pob46/vProfanityModel.mlnet/file) and place it in the created folder.
 4. Open terminal and navigate to `utilspy` directory. Enter the following command: `pip install -r requirements.txt`.
 5. Open vProfanity in the Visual Studio environment and run the application.
 
